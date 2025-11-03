@@ -30,16 +30,15 @@ async function main() {
     }
     
     const abi = JSON.parse(fs.readFileSync(abiPath, 'utf-8'));
-    config.abi = abi;
 
     // Validate required environment variables
     if (!config.rpcUrl || config.rpcUrl.includes('${')) {
       throw new Error('RPC_URL environment variable is required. Set it in .env file.');
     }
 
-    // Create indexer
+    // Create indexer with ABI
     logger.info('🚀 Initializing indexer...');
-    const indexer = new GenericIndexer(config);
+    const indexer = new GenericIndexer({ ...config, abi });
 
     // Start indexer
     await indexer.start();
