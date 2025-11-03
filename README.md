@@ -1,6 +1,6 @@
 # My Indexer
 
-> Blockchain event indexer powered by [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+> Blockchain event indexer powered by [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 
 ## 🚀 Quick Start
 
@@ -170,14 +170,14 @@ See comments in config.yaml for detailed explanations.
 
 ## 📚 Documentation
 
-- **Core Package**: [@lynx-core/indexer docs](https://github.com/your-org/lynx-indexer)
+- **Core Package**: [@lynx-core/indexer docs](https://github.com/lynx-core/indexer)
 - **Customization**: [CUSTOMIZATION_GUIDE.md](./CUSTOMIZATION_GUIDE.md)
 - **API Reference**: See core package README
 
 ## 🤝 Support
 
 - Open an issue: [GitHub Issues](https://github.com/your-repo/issues)
-- Core package issues: [Lynx Indexer Issues](https://github.com/your-org/lynx-indexer/issues)
+- Core package issues: [Lynx Indexer Issues](https://github.com/lynx-core/indexer/issues)
 
 ## 📄 License
 

@@ -384,7 +384,7 @@ Now you can:
 
 ## Need Help?
 
-- 📖 Core package docs: [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+- 📖 Core package docs: [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 - 🐛 Report issues: [GitHub Issues](https://github.com/your-repo/issues)
 - 💬 Community: [Discord](https://discord.gg/your-server)
 

@@ -741,7 +741,7 @@ temp/
 ```markdown
 # My Indexer
 
-> Blockchain event indexer powered by [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+> Blockchain event indexer powered by [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 
 ## 🚀 Quick Start
 
@@ -911,14 +911,14 @@ See comments in config.yaml for detailed explanations.
 
 ## 📚 Documentation
 
-- **Core Package**: [@lynx-core/indexer docs](https://github.com/your-org/lynx-indexer)
+- **Core Package**: [@lynx-core/indexer docs](https://github.com/lynx-core/indexer)
 - **Customization**: [CUSTOMIZATION_GUIDE.md](./CUSTOMIZATION_GUIDE.md)
 - **API Reference**: See core package README
 
 ## 🤝 Support
 
 - Open an issue: [GitHub Issues](https://github.com/your-repo/issues)
-- Core package issues: [Lynx Indexer Issues](https://github.com/your-org/lynx-indexer/issues)
+- Core package issues: [Lynx Indexer Issues](https://github.com/lynx-core/indexer/issues)
 
 ## 📄 License
 
@@ -1316,7 +1316,7 @@ Now you can:
 
 ## Need Help?
 
-- 📖 Core package docs: [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+- 📖 Core package docs: [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 - 🐛 Report issues: [GitHub Issues](https://github.com/your-repo/issues)
 - 💬 Community: [Discord](https://discord.gg/your-server)
 ```
@@ -1379,9 +1379,9 @@ Add these topics to your repository:
 ```markdown
 # 🚀 Blockchain Indexer Template
 
-> Production-ready template for indexing EVM blockchain events. Powered by [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+> Production-ready template for indexing EVM blockchain events. Powered by [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 
-[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/your-org/indexer-template/generate)
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/lynx-core/indexer-template/generate)
 
 ## ⚡ Quick Start (5 minutes)
 
@@ -1418,7 +1418,7 @@ Add these topics to your repository:
 
 - **[Quick Start Guide](./README.md)** - Get started in 5 minutes
 - **[Customization Guide](./CUSTOMIZATION_GUIDE.md)** - Detailed setup instructions
-- **[Core Package Docs](https://github.com/your-org/lynx-indexer)** - Full feature documentation
+- **[Core Package Docs](https://github.com/lynx-core/indexer)** - Full feature documentation
 
 ## 🎯 Supported Use Cases
 
@@ -1432,7 +1432,7 @@ Add these topics to your repository:
 
 ## 🛠️ Tech Stack
 
-- **Core**: [@lynx-core/indexer](https://github.com/your-org/lynx-indexer)
+- **Core**: [@lynx-core/indexer](https://github.com/lynx-core/indexer)
 - **Runtime**: Node.js 20+ / TypeScript 5+
 - **Database**: MongoDB 6+
 - **Message Queue**: RabbitMQ 3+ (optional)
@@ -1481,7 +1481,7 @@ See [deployment examples](./examples/kubernetes.yaml)
 
 ## 🤝 Contributing
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/your-org/indexer-template/issues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/lynx-core/indexer-template/issues)
 
 ## 📄 License
 
